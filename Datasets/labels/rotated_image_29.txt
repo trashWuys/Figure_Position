@@ -1,0 +1,2 @@
+Rotation Angle: 281.21396630750763
+Crop Position: (x=7121, y=6488)
